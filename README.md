@@ -2,7 +2,7 @@
 
 A simple weather app built with HTML, CSS, and JavaScript that displays current weather data for any city entered.
 
-🌐 [Live Site](https://blank102.github.io/weather/)
+🌐 [Live Site](https://weather-tracker-project.vercel.app/)
 
 ## 🔍 Features
 - Search weather by city name
